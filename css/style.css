@@ -1785,8 +1785,11 @@ color: #00897b;
     border-radius: 50%;
 
     color: #fff;
-    font-size: 50px;
     text-align: center;
+}
+
+.fa-map::before {
+    font-size: 50px;
 }
 
 .fa-phone {
@@ -1798,8 +1801,11 @@ color: #00897b;
     border-radius: 50%;
 
     color: #fff;
-    font-size: 50px;
     text-align: center;
+}
+
+.fa-phone::before {
+    font-size: 50px;
 }
 
 .fa-envelope {
@@ -1811,8 +1817,10 @@ color: #00897b;
     border-radius: 50%;
 
     color: #fff;
-    font-size: 50px;
     text-align: center;
+}
+.fa-envelope::before {
+    font-size: 50px;
 }
 
 .contact_item p {
