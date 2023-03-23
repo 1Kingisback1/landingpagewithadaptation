@@ -1789,6 +1789,7 @@ color: #00897b;
 }
 
 .fa-map::before {
+    content: "\f279";
     font-size: 50px;
 }
 
@@ -1805,6 +1806,7 @@ color: #00897b;
 }
 
 .fa-phone::before {
+    content: "\f095";
     font-size: 50px;
 }
 
@@ -1820,6 +1822,7 @@ color: #00897b;
     text-align: center;
 }
 .fa-envelope::before {
+    content: "\f0e0";
     font-size: 50px;
 }
 
